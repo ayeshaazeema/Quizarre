@@ -54,6 +54,46 @@ class QuizFragment : Fragment() {
         Quiz(
             text = "What is the oldest company in the world?",
             answers = listOf("Kongo Gumi", "St. Peter Stiftskulinarium", "Staffelter Hof", "Monnaie de Paris")
+        ),
+        Quiz(
+            text = "What is the longest river in the world?",
+            answers = listOf("Nile", "Amazon River", "Yangtze", "Yellow River")
+        ),
+        Quiz(
+            text = "Which vitamin is the only one that you will not find in an egg?",
+            answers = listOf("Vitamin C", "Vitamin A", "Vitamin D", "Vitamin E")
+        ),
+        Quiz(
+            text = "What is the biggest animal in the world?",
+            answers = listOf("Blue Whale", "Colossal Squid", "African Elephant", "Giraffe")
+        ),
+        Quiz(
+            text = "How many bones does a shark have?",
+            answers = listOf("None", "200", "10", "60")
+        ),
+        Quiz(
+            text = "When was Netflix founded?",
+            answers = listOf("1997", "2000", "2007", "2012")
+        ),
+        Quiz(
+            text = "What was Disney's first movie?",
+            answers = listOf("Snow White and the Seven Dwarfs", "Pinocchio", "Bambi", "Cinderella")
+        ),
+        Quiz(
+            text = "Which language has the most words (according to dictionary entries)?",
+            answers = listOf("English", "Russian", "Spanish", "Chinese")
+        ),
+        Quiz(
+            text = "What is the largest bird of prey in the world?",
+            answers = listOf("Andean Condor", "Harpy Eagle", "Bearded Vulture", "Eurasian Eagle Owl")
+        ),
+        Quiz(
+            text = "What was the most downloaded app of 2020?",
+            answers = listOf("TikTok", "Facebook", "WhatsApp", "Instagram")
+        ),
+        Quiz(
+            text = "Which sportswear brand was known as Blue Ribbon Sports?",
+            answers = listOf("Nike", "Adidas", "Puma", "Under Armour")
         )
     )
 
